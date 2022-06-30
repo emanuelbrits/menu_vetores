@@ -61,6 +61,7 @@ function main(){
         opcao = pedir_numero('Opção: ')
         console.clear()
     }
+
 }
 
 main()

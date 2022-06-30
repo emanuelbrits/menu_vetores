@@ -1,6 +1,7 @@
 import prompt from 'prompt-sync'
 const input = prompt()
 
+
 export function pedir_numero(msg){
 
     let numero = Number(input(msg))
